@@ -1,0 +1,17 @@
+{
+    "description": "Will be used for my learning purpose in web development",
+
+    "domain": "is-cool.dev",
+    "subdomain": "lunap",
+
+    "owner": {
+        "repo": "https://github.com/pilisinluna16",
+        "email": "pilisinluna16@gmail.com"
+    },
+
+    "record": {
+        "A": ["103.150.196.247"],
+    },
+
+    "proxied": false
+}
